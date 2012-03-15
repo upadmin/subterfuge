@@ -1,8 +1,6 @@
 #Page to Report Bugs
 
-= Introduction =
-
-Report Bugs Here:
+= Report Bugs Below =
 
 
 = Details =
