@@ -1,5 +1,3 @@
-#Page to Report Bugs
-
 = Report Bugs Below =
 
 Simply report your bug below in a comment. Ensure to document as much as you can regarding how the bug occurred such as current activity, specifications of the system the software is running on, etc.
