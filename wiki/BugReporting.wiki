@@ -2,10 +2,6 @@
 
 = Report Bugs Below =
 
+Simply report your bug below in a comment. Ensure to document as much as you can regarding how the bug occurred such as current activity, specifications of the system the software is running on, etc.
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Suggestions are welcome and encouraged!!
