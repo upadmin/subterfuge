@@ -10,4 +10,4 @@
 <img>http://subterfuge.googlecode.com/svn/wiki/modules.png</img>
 <br>
 <h1>Code Injection Example:</h1>
-<img>http://subterfuge.googlecode.com/svn/wiki/codeinjection.png</img>
+<img>http://subterfuge.googlecode.com/svn/wiki/codeinjectionex.png</img>
