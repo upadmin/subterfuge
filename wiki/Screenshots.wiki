@@ -1,9 +1,9 @@
 = Screenshots =
 
-<img>http://subterfuge.googlecode.com/svn/wiki/credentials.jpg</img>
+<img>http://subterfuge.googlecode.com/svn/wiki/credentials.png</img>
 <br>
-<img>http://subterfuge.googlecode.com/svn/wiki/settings.jpg</img>
+<img>http://subterfuge.googlecode.com/svn/wiki/settings.png</img>
 <br>
-<img>http://subterfuge.googlecode.com/svn/wiki/modules.jpg</img>
+<img>http://subterfuge.googlecode.com/svn/wiki/modules.png</img>
 <br>
-<img>http://subterfuge.googlecode.com/svn/wiki/codeinjection.jpg</img>
+<img>http://subterfuge.googlecode.com/svn/wiki/codeinjection.png</img>
