@@ -3,6 +3,9 @@
 <h1>Credential Harvesting:</h1>
 <img>http://subterfuge.googlecode.com/svn/wiki/credentials.png</img>
 <br>
+<h1>Network View Module:</h1>
+<img>http://subterfuge.googlecode.com/svn/wiki/netview.png</img>
+<br>
 <h1>Settings Page:</h1>
 <img>http://subterfuge.googlecode.com/svn/wiki/settings.png</img>
 <br>
